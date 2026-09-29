@@ -1,0 +1,14 @@
+C:\Users\Alenkowicz.Mateusz\Documents\2.1\bin\Debug\net9.0-windows\EnterCounter.exe
+C:\Users\Alenkowicz.Mateusz\Documents\2.1\bin\Debug\net9.0-windows\EnterCounter.deps.json
+C:\Users\Alenkowicz.Mateusz\Documents\2.1\bin\Debug\net9.0-windows\EnterCounter.runtimeconfig.json
+C:\Users\Alenkowicz.Mateusz\Documents\2.1\bin\Debug\net9.0-windows\EnterCounter.dll
+C:\Users\Alenkowicz.Mateusz\Documents\2.1\bin\Debug\net9.0-windows\EnterCounter.pdb
+C:\Users\Alenkowicz.Mateusz\Documents\2.1\obj\Debug\net9.0-windows\EnterCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alenkowicz.Mateusz\Documents\2.1\obj\Debug\net9.0-windows\EnterCounter.AssemblyInfoInputs.cache
+C:\Users\Alenkowicz.Mateusz\Documents\2.1\obj\Debug\net9.0-windows\EnterCounter.AssemblyInfo.cs
+C:\Users\Alenkowicz.Mateusz\Documents\2.1\obj\Debug\net9.0-windows\EnterCounter.csproj.CoreCompileInputs.cache
+C:\Users\Alenkowicz.Mateusz\Documents\2.1\obj\Debug\net9.0-windows\EnterCounter.dll
+C:\Users\Alenkowicz.Mateusz\Documents\2.1\obj\Debug\net9.0-windows\refint\EnterCounter.dll
+C:\Users\Alenkowicz.Mateusz\Documents\2.1\obj\Debug\net9.0-windows\EnterCounter.pdb
+C:\Users\Alenkowicz.Mateusz\Documents\2.1\obj\Debug\net9.0-windows\EnterCounter.genruntimeconfig.cache
+C:\Users\Alenkowicz.Mateusz\Documents\2.1\obj\Debug\net9.0-windows\ref\EnterCounter.dll
