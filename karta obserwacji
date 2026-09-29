@@ -1,0 +1,12 @@
+# Mój pierwszy agent — karta obserwacji
+
+- Narzędzie i model: Cursor Grok 4.6 Medium
+- Moje zadanie (2–3 zdania): stworzyć aplikacje ktora bedzie tworzyla ilosc przyciskow enter
+- Pierwsza wiadomość (wklejona co do znaku): Stworz aplikacje ktora ma za zadanie zliczac ilosc przyciskow enter
+- Co agent zrobił najpierw: stworzyl aplikacje
+- O co pytał — i co zostało zatwierdzone bez czytania: o nic
+- Pierwszy błąd i co agent z nim zrobił: nie zliczal enter
+- Stan po 25 minutach: działa
+- Skąd wiem, że aplikacja działa (co zostało sprawdzone): aplikacja byla responsywna
+- Rzeczy, które agent zrobił, a których nie rozumiem: wiekszosc kodu
+- Jak mi się wydawało, że poszło (jedno zdanie): dobrze
